@@ -1,0 +1,16 @@
+This is a machine learning project which is used to find wheather hotel booking will be cancelled or not.
+
+used date: Various hotel data
+
+my data contains
+records =119390
+features =32
+
+steps done in this project
+
+1.data importing
+2.data cleaning
+3.exploratory data analysis on various problem statements
+4.cross validation
+5.used different models like logistic regression,decision tree,randomforest,naive bayes,KNN and predicted accuracy of each models
+   

@@ -1,0 +1,16 @@
+machine learning life cycle
+
+1.use case
+2.business understanding (collecting data)
+3.data finding (cloud,database,stakeholders)
+
+BA and domain expertise talks with each other and provide project to data scientist 
+now BA and stakeholders provide data to data engineer it will be received from all sources 
+he transform data and provide quality to data and make the same to available for
+all ie data analyst.data scientist,business intelligence.
+
+
+now data scientist will further preprocess (data cleaning + feature engineering) data to create machine learning models.
+
+data engineer-->dataanalyst-->data scientist-->ml engineer will deploy model-->ba analyst-->stake holders
+
